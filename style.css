@@ -72,3 +72,34 @@ button:hover {
 .variable {
   color: #ce9178;
 }
+.menu {
+  background: #111;
+  padding: 6px 10px;
+  border-bottom: 1px solid #333;
+}
+
+.file {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  background: #222;
+  border: 1px solid #333;
+  margin-top: 5px;
+}
+
+.file:hover .dropdown {
+  display: block;
+}
+
+.dropdown div {
+  padding: 6px 10px;
+}
+
+.dropdown div:hover {
+  background: #333;
+}
