@@ -8,7 +8,7 @@ Logix scripts can be run live in the browser or exported to JavaScript.
 ---
 
 ## features
-
+- written in and based off javascript
 - readable, english-like syntax
 - built-in editor + preview console
 - variables with clear declaration rules
