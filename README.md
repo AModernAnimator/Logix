@@ -100,12 +100,12 @@ Comments can be:
 
 
 
-#####Disclaimer
+Disclaimer
  <sub><sup>**AI was used** for:
 much more complex code, as this was done by a 11 and a 12 year old;
 things like figuring out how to add a shields.io button;
 and other minor things.</sub></sup>
-<sub><sup> Emerald is a custom scripting language interpreter created for educational and entertainment purposes. It is provided “as-is” without any warranties or guarantees of safety, security, or suitability for any particular use.
+<sup><sub> Emerald is a custom scripting language interpreter created for educational and entertainment purposes. It is provided “as-is” without any warranties or guarantees of safety, security, or suitability for any particular use.
 
 1. No Warranty
 
