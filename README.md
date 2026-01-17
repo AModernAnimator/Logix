@@ -1,4 +1,5 @@
-![logo](emeraldicon.png)
+<img src="emeraldicon.png" width="50" alt="logo"/>
+
 Emerald
 ===============
 **© Copyright 2026 Emerald**
