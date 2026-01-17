@@ -1,3 +1,4 @@
+![logo](emeraldicon.png)
 Emerald
 ===============
 **© Copyright 2026 Emerald**
