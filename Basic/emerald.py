@@ -1,6 +1,7 @@
 import re
 import sys
 import ast
+import time
 
 class Emerald:
     def __init__(self):
@@ -10,7 +11,7 @@ class Emerald:
         expr = expr.replace("AND", " and ").replace("OR", " or ").replace("NOT", " not ")
         try:
             node = ast.parse(expr, mode="eval")
-        except SyntaxError as e:
+        except SyntaxError:
             return False
 
         allowed_nodes = (
@@ -94,6 +95,11 @@ class Emerald:
                 i += 1
                 if i < len(lines):
                     print(self.safe_eval(lines[i]))
+                i += 1
+
+            elif line.startswith("delay="):
+                ms = float(line.split("=", 1)[1])
+                time.sleep(ms / 1000)   # convert ms to seconds
                 i += 1
 
             elif line.startswith("while"):
