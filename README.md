@@ -4,8 +4,8 @@
 
 ---
 
-[![badgey badge](https://img.shields.io/badge/Emerald-Compiler-Latest-rgb#0fba81)](https://github.com/AModernAnimator/Emerald/releases/tag/Emerald)
-[![badgey badge](https://img.shields.io/badge/Emerald-Shell-Latest-rgb#0fba81)](https://github.com/AModernAnimator/Emerald/releases/tag/Shell)
+[![badgey badge](https://img.shields.io/badge/Emerald_Compiler-Latest-rgb#0fba81)](https://github.com/AModernAnimator/Emerald/releases/tag/Emerald)
+[![badgey badge](https://img.shields.io/badge/Emerald_Shell-Latest-rgb#0fba81)](https://github.com/AModernAnimator/Emerald/releases/tag/Shell)
 
 ---
 
